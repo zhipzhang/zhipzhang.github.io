@@ -801,9 +801,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
         repo = "BLOG_COMMENT"
 
-        clientId = ""
+        clientId = "Ov23ctokYwBkt4nRteAf"
 
-        clientSecret = ""
+        clientSecret = "45b81c3d24374c424d303a9c341c6140963be7ac"
 
       # Valine comment config
 
